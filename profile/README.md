@@ -6,13 +6,13 @@ Discovery lab for trusted open-source tools that simplify everyday engineering. 
 
 **OpsCli by Caipora Labs** runs on your machine. It takes a GitHub issue, pull request, or cron job and hands it to a coding-agent CLI you already choose: OpenCode, Codex, Claude Code, or Cursor.
 
-- Repository: [caipora-labs/opscli](https://github.com/caipora-labs/opscli)
-- Documentation: [caipora-labs.github.io/opscli](https://caipora-labs.github.io/opscli/)
+- Repository: [caipora-labs/curupira](https://github.com/caipora-labs/curupira)
+- Documentation: [caipora-labs.github.io/curupira](https://caipora-labs.github.io/curupira/)
 
-## What this is not
+## How it works
 
-This page is not a SaaS company site. Caipora Labs does not publish an agent framework and does not build a new coding agent. OpsCli only dispatches work to the CLIs you already run.
+Caipora Labs builds open-source tools for everyday engineering. OpsCli connects GitHub work to the coding-agent CLIs you already use; it does not introduce a separate agent framework.
 
 ## Contribute
 
-Bugs, ideas, and pull requests belong on the [OpsCli issue tracker](https://github.com/caipora-labs/opscli/issues).
+Bugs, ideas, and pull requests belong on the [OpsCli issue tracker](https://github.com/caipora-labs/curupira/issues).
